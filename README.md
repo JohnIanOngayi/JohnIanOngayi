@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnian_ow" target="blank"><img src="https://img.shields.io/twitter/follow/johnian_ow?logo=twitter&style=for-the-badge" alt="johnian_ow" /></a> </p>
 
-- 🔭 I’m currently working on [System Engineering](https://github.com/JohnIanOngayi/alx-system_engineering-devops)
+- 🔭 I’m currently working on [Systems Engineering](https://github.com/JohnIanOngayi/alx-system_engineering-devops)
 
 - 🌱 I’m currently learning **Systems Engineering and DevOps**
 
