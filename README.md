@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnianongayi&show_icons=true&locale=en&layout=compact" alt="johnianongayi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnianongayi&show_icons=true&locale=en" alt="johnianongayi" /></p>
+<a href="http://www.github.com/JohnIanOngayi"><img src="https://github-readme-stats.vercel.app/api?username=JohnIanOngayi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
