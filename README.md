@@ -1,6 +1,12 @@
 # Hi, I'm Ian 😎
-### Curious. Coding. Growing.
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=%F0%9F%93%9D+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+A+Backend+Engineer;%F0%9F%8C%8F+Curious+Coding+Growing" alt="Typing SVG" style="padding-left: 2rem;" />
+  </a>
+</p>
+
+<h2 align="left">🎖️ About Ian</h2>
 🚀 Backend Engineer evolving through code <br/>
 🚀 I enjoy developing APIs <br/>
 🚀 Exploring Advanced API design and optimization <br/>
